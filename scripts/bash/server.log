@@ -1,0 +1,10 @@
+2026-01-28 10:00:01 INFO Server started successfully
+2026-01-28 10:00:15 INFO User login: admin
+2026-01-28 10:05:23 Error Failed to connect to database
+2026-01-28 10:05:45 WARNING Retry attempt 1
+2026-01-28 10:06:12 Error Connection timeout
+2026-01-28 10:10:30 INFO Service running normally
+2026-01-28 10:15:44 Error Authentication failed for user 'guest'
+2026-01-28 10:20:00 INFO Backup completed
+2026-01-28 10:25:15 WARNING Disk usage at 75%
+2026-01-28 10:30:22 Error File not found: /var/log/app.log
